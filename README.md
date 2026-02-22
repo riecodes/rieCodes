@@ -11,13 +11,13 @@
 - 👯 My projects are available at **[GitHub](https://github.com/rieCodes)**
 - 💬 Ask me about **dev, academic, life, gaming, hobbies** — ask away
 - 📫 How to reach me: **eirmonpaculan11@gmail.com**
-- 🥅 Goals: **Building side projects and leveling up in full-stack development** — *idea: integrate happily building systems for clients*
+- 🥅 Goals: **Build problem solving systems for clients and leveling up in full-stack development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/eirmonpaculan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eirmonpaculan"  /></a>
-<a href="https://linkedin.com/in/riecodes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="riecodes"  /></a>
-<a href="mailto:eirmonpaculan11@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  /></a>
+<a href="https://facebook.com/eirmonpaculan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eirmonpaculan" width="48" height="48" /></a>
+<a href="https://linkedin.com/in/riecodes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="riecodes" width="48" height="48" /></a>
+<a href="mailto:eirmonpaculan11@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
