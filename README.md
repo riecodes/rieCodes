@@ -16,18 +16,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/eirmonpaculan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eirmonpaculan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/riecodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riecodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riecodes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="riecodes" height="30" width="40" /></a>
 <a href="mailto:eirmonpaculan11@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,php,py,java,cpp,html,css,dart,cs" alt="riecodes" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,py,java,c,cs,cpp,html,css,dart" alt="riecodes" />
 </p>
 
 <h3 align="left">Frontend & frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,laravel,bootstrap,tailwind" alt="riecodes" />
+<img src="https://skillicons.dev/icons?i=react,vite,laravel,bootstrap,tailwind,flutter" alt="riecodes" />
 </p>
 
 <h3 align="left">Backend & services:</h3>
