@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rieCodes&label=Profile%20views&color=0e75b6&style=flat" alt="riecodes" /> </p>
 
-- 🏢 I'm currently **open to opportunities**
+- 🏢 I'm currently **open for commission (rush/non-rush)**
 - 🔭 I'm currently working on **[ojt_journal_reddit](https://github.com/rieCodes/ojt_journal_reddit)**
 - 🌱 I'm currently learning **[Laravel](https://github.com/rieCodes/laravel)**
 - 👯 My projects are available at **[GitHub](https://github.com/rieCodes)**
 - 💬 Ask me about **dev, academic, life, gaming, hobbies** — ask away
 - 📫 How to reach me: **eirmonpaculan11@gmail.com**
-- 🥅 Goals: **Integrate happily building systems for clients**
+- 🥅 Goals: **Building side projects and leveling up in full-stack development** — *idea: integrate happily building systems for clients*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,11 +45,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs" alt="riecodes" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rieCodes&theme=dark&show_icons=true&locale=en&layout=compact" alt="riecodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rieCodes&theme=dark&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="riecodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rieCodes&theme=dark&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="riecodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rieCodes&theme=dark&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=86400" alt="riecodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rieCodes&theme=dark" alt="riecodes" /></p>
 
 ---
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=rieCodes&icon=0&color=0" alt="riecodes" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rieCodes&label=Profile%20views&color=0e75b6&style=flat" alt="riecodes" /></p>
