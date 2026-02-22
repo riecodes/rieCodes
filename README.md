@@ -18,6 +18,7 @@
 <a href="https://facebook.com/eirmonpaculan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eirmonpaculan" width="48" height="48" /></a>
 <a href="https://linkedin.com/in/riecodes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="riecodes" width="48" height="48" /></a>
 <a href="mailto:eirmonpaculan11@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" /></a>
+<a href="https://tiktok.com/@riecodes" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tiktok" alt="riecodes" width="48" height="48" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
