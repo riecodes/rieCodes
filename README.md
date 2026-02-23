@@ -18,7 +18,7 @@
 <a href="https://facebook.com/eirmonpaculan" target="blank"><img align="center" src="https://cdn.brandfetch.io/domain/facebook.com/w/2084/h/2084/logo?c=1idut7VzG7czJVmKwYM" alt="Facebook" width="48" height="48" /></a>
 <a href="https://linkedin.com/in/riecodes" target="blank"><img align="center" src="https://cdn.brandfetch.io/domain/linkedin.com/w/400/h/400?c=1idut7VzG7czJVmKwYM" alt="LinkedIn" width="48" height="48" /></a>
 <a href="mailto:eirmonpaculan11@gmail.com" target="blank"><img align="center" src="https://cdn.brandfetch.io/domain/gmail.com/w/800/h/601/symbol?c=1idut7VzG7czJVmKwYM" alt="Gmail" width="48" height="48" /></a>
-<a href="https://tiktok.com/@riecodes" target="blank"><img align="center" src="https://cdn.brandfetch.io/domain/tiktok.com/w/400/h/400?c=1idut7VzG7czJVmKwYM" alt="TikTok" width="48" height="48" /></a>
+<a href="https://tiktok.com/@riecodes" target="blank"><img align="center" src="https://cdn.brandfetch.io/domain/tiktok.com/w/400/h/400?c=1idut7VzG7czJVmKwYM" alt="TikTok" width="48" height="48" /></a> <small><em>&larr; click me</em></small>
 </p>
 
 <h3 align="left">Languages:</h3>
