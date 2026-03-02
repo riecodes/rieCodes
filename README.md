@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **[ojt_journal_reddit](https://github.com/rieCodes/ojt_journal_reddit)**
 - 🌱 I'm currently learning **[Laravel](https://github.com/rieCodes/laravel)**
 - 👯 My projects are available at **[GitHub](https://github.com/rieCodes)**
-- 💬 Ask me about **dev, academic, life, gaming, hobbies** — ask away
+- 💬 Ask me about **dev, academic, life, gaming, hobbies**
 - 📫 How to reach me: **eirmonpaculan11@gmail.com**
 - 🥅 Goals: **Build problem solving systems for clients and leveling up in full-stack development**
 
