@@ -28,7 +28,7 @@
 
 <h3 align="left">Frontend & frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,laravel,bootstrap,tailwind,flutter" alt="riecodes" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,laravel,bootstrap,tailwind,flutter" alt="riecodes" />
 </p>
 
 <h3 align="left">Backend & services:</h3>
